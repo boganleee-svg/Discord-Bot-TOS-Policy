@@ -1,0 +1,72 @@
+# Privacy Policy
+
+**Last Updated:** 20 September 2026 - 16:31 PM Great British Summer Time
+
+This Privacy Policy sets out the manner in which data is collected, used, stored, and protected in connection with the operation of the Discord bot Vora Bot. By inviting, adding, or interacting with the Bot, you acknowledge the practices described herein.
+
+## 1. Scope and Application
+
+This Policy applies to all data processed by the Bot in the course of its operation within Discord servers. It is intended to provide transparency regarding the limited personal data that may be processed and the purposes for which such processing occurs.
+
+## 2. Data Controller
+
+The operator of the Bot acts as the data controller in respect of any personal data processed through the Bot’s functionality.
+
+## 3. Categories of Data Processed
+
+The Bot processes only such data as is strictly necessary for the provision of its features. The categories of data that may be processed include:
+
+- Discord User Identifiers (User IDs)
+- Discord Server Identifiers (Guild IDs)
+- Command usage records (including the nature of the command executed and the time of execution)
+- Server-specific configuration and preference data set by authorised administrators
+- Any additional technical or operational data required for the reliable functioning of the Bot
+
+The Bot does not process message content unless the Message Content Intent has been expressly enabled and is required for a specific feature. The Bot does not collect email addresses, Internet Protocol (IP) addresses, payment information, or any other categories of personal data beyond those listed above.
+
+## 4. Purposes of Processing
+
+Data is processed solely for the following purposes:
+
+- To enable and maintain the core functionality of the Bot
+- To store and apply server-specific configuration settings
+- To ensure the technical stability, security, and proper operation of the Bot
+- To diagnose and resolve technical issues where necessary
+
+Data is not processed for marketing, profiling, or any commercial purpose unrelated to the operation of the Bot.
+
+## 5. Legal Basis for Processing
+
+Where the General Data Protection Regulation (GDPR) or equivalent legislation applies, processing is carried out on the basis of legitimate interests in providing and maintaining the Bot’s services, and, where applicable, on the basis of the performance of a contract with the server administrators who invite the Bot.
+
+## 6. Data Retention
+
+Data is retained only for so long as is necessary to fulfil the purposes set out in this Policy. Configuration and operational data associated with a server is generally retained for the duration of the Bot’s presence in that server. Upon removal of the Bot from a server, associated data is deleted within a reasonable period, subject to any technical or legal retention requirements.
+
+## 7. Data Sharing and Disclosure
+
+Personal data processed by the Bot is not sold, rented, or otherwise disclosed to third parties for commercial purposes. Disclosure may occur only where required by applicable law, regulation, or valid legal process, or where necessary to protect the integrity and security of the Bot or the rights of users.
+
+## 8. Data Security
+
+Appropriate technical and organisational measures are implemented to protect data against unauthorised access, alteration, disclosure, or destruction. While no method of transmission or storage can be guaranteed to be completely secure, reasonable efforts are made to safeguard the data processed by the Bot.
+
+## 9. International Data Transfers
+
+Where data is processed or stored in jurisdictions outside the European Economic Area, appropriate safeguards are applied to the extent required by applicable data protection law.
+
+## 10. Rights of Individuals
+
+Where applicable data protection legislation confers rights upon individuals (including rights of access, rectification, erasure, restriction of processing, and data portability), such rights may be exercised by contacting the operator through appropriate channels. Requests will be handled in accordance with applicable law.
+
+## 11. Children’s Data
+
+The Bot is not directed at individuals under the age of thirteen (13). No personal data is knowingly collected from children under this age. Should it become apparent that such data has been collected, reasonable steps will be taken to delete it.
+
+## 12. Changes to this Privacy Policy
+
+This Privacy Policy may be revised from time to time to reflect changes in the Bot’s functionality, legal requirements, or operational practices. The “Last Updated” date at the beginning of this document will be amended accordingly. Continued use of the Bot following the publication of any revised version constitutes acceptance of the updated Policy.
+
+## 13. Governing Law
+
+This Privacy Policy shall be governed by and construed in accordance with the laws of the applicable jurisdiction, without regard to its conflict of law principles.
